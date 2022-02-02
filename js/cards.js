@@ -7,11 +7,11 @@ const beerCardImahe = document.querySelector('.beer-section');
 const beerCardTitle = document.querySelector('.your-beer-title');
 
 const beerCardImgPath = {
-    img1: '/img/beer-4.png',
-    img2: '/img/beer-card.jpg',
-    img3: '/img/bender.png',
-    img4: '/img/beer-3.png',
-    img5: '/img/beer-card-4.jpg',
+    img1: './img/beer-4.png',
+    img2: './img/beer-card.jpg',
+    img3: './img/bender.png',
+    img4: './img/beer-3.png',
+    img5: './img/beer-card-4.jpg',
 };
 
 const userInfo = document.querySelector('.user-info');
